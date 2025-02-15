@@ -1,0 +1,17 @@
+#homeBlock{
+    width:100%;
+    margin-top:70px;
+}
+#homeBlock>article{
+    width:80%;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column
+}
+#homeBlock>article>h1{
+    font-size:35px;
+    font-family:'Courier New', Courier, monospace
+}
+table,th,td{
+    
+}
